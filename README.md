@@ -1,6 +1,6 @@
 # Adaptive-Traffic-Signal-Timer
 
-
+![Image](https://github.com/user-attachments/assets/6953950e-2646-4c91-a8e4-1de270cf2618)
 
 This project focuses on developing an adaptive traffic signal system that uses real-time traffic density data to optimize green light timings at intersections. It addresses the inefficiencies of static traffic light systems by dynamically adjusting signal times to reduce congestion and vehicle idle time. The project demonstrates proficiency in computer vision, machine learning, and system simulation.
 
